@@ -1,5 +1,5 @@
 <!-- Header -->
-<img src="./sprocket.png" width="100%" />
+<img src="/profile/sprocket.png" width="100%" />
 
 <br />
 
